@@ -19,6 +19,3 @@ Teeranu - public team of players in Minetest.
 
 Ask AB-MT, BitByByte, or other players who is already in team.
 
-# Public banner.
-
-![Teeranu Banner](./Teeranu_Banner.png)
