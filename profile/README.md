@@ -1,7 +1,7 @@
 Teeranu - public team of players in Minetest.
 
 # List of players:
-1. AB-MT
+1. AB-MT(founder)
 2. BitByByte
 3. 2im125
 4. PrimoDude
