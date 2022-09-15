@@ -8,6 +8,7 @@ Teeranu - public team of players in Minetest.
 5. jub2884
 6. TryingToSurvive
 7. -Popbob-(-FitMC-, Gregor)
+8. SuddenK
 
 # The servers where we are:
 
