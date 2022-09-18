@@ -16,6 +16,7 @@ Teeranu - public team of players in Minetest.
 1. oysterity anarchy.
 2. Oops! All chaos! (closed now)
 3. Solo Un Altro Clone(but team there is named *Anarchy Team*)
+4. Dog of War
 
 # How to join?
 
