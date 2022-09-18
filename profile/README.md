@@ -10,6 +10,8 @@ Teeranu - public team of players in Minetest.
 7. -Popbob-(-FitMC-, Gregor)
 8. SuddenK
 9. jingoro
+10. ninja_9
+11. Clown_Pierce
 
 # The servers where we are:
 
